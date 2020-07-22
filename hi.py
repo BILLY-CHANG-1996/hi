@@ -1,0 +1,6 @@
+print('請問你幾公斤')
+height=input('請輸入體重')
+print(height)
+print('請問你有多高')
+weight=input('請輸入身高')
+print(weight)
